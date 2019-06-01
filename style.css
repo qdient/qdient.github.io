@@ -108,6 +108,7 @@ button {
 	padding:14px 32px;
 	text-decoration:none;
 	border:0.02 solid black;
+	background:white;
 }
 button:hover {
 	background-color:orange;
