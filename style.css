@@ -95,6 +95,8 @@ flex-direction: column;
 }
 .client-marquee{
 	display: flex;
+	marquee-speed: fast;
+
 	flex-direction: row;
 }
 .client{
